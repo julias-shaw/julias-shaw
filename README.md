@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://www.boot.dev/u/mentalartist"><img src="https://api.boot.dev/v1/users/public/f25c2dfa-610a-4e83-8df9-b009180fff07/thumbnail" ></a>
+  <a href="https://www.boot.dev/u/mentalartist" target="_boot_dev"><img src="https://api.boot.dev/v1/users/public/f25c2dfa-610a-4e83-8df9-b009180fff07/thumbnail" ></a>
 </p>
